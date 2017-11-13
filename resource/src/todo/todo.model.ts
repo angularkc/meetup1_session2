@@ -1,6 +1,6 @@
 export class TodoModel {
   constructor(
-    public label: string,
+    public title: string,
     public complete: boolean
   ) {}
 }
